@@ -1,4 +1,4 @@
-# Calender_Schedule
+# Calendar_Schedule
 
 1. 日历界面，选中日期则为蓝色背景，点击绿色按钮跳转至添加日程界面；菜单栏可以选择查看日历或者直接查看日程。
 
